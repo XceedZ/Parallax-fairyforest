@@ -110,7 +110,7 @@ body {
 	will-change: transform;
 }
 .main-article__subjudul {
-	color: #ffffff1a;
+	color: #3f3f3f7d;
 	font-style: italic;
 	font-size: calc(var(--index) * 1.0);
 	letter-spacing: calc(var(--index) / 7.5);
